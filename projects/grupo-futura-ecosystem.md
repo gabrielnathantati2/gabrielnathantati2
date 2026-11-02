@@ -14,7 +14,7 @@ The ecosystem is centred on three products:
 |---|---|---|
 | **Futura Desk** | Main business workspace and product experience, including CRM and the full Creative Studio | https://futuradesk.space |
 | **Futura Cloud** | Cloud hosting control panel and infrastructure platform | https://cloud.futuradesk.space |
-| **Futura Mail** | Business email and webmail product | Repository architecture currently references https://mailserver.futuradesk.space |
+| **Futura Mail** | Business email application and webmail experience | Public link intentionally not listed yet |
 
 All three products are in development. The architecture and implementation status below distinguish existing foundations from planned capabilities.
 
@@ -80,7 +80,8 @@ The product architecture also documents:
 - Administrative control over module availability.
 - A webmail sidebar driven by registered modules.
 - Integration points for the Futura Cloud panel to manage email resources through an administration API.
-- A broader email-service direction that includes SMTP, IMAP, JMAP and calendar/contact protocols.
+- A separate, proprietary mail-server layer operated by Grupo Futura, distinct from the Futura Mail web application.
+- A broader email-service direction involving standard email protocols such as SMTP and IMAP, with additional protocol capabilities documented as part of the product direction.
 
 **Implementation and security status:** the Mail repository contains unfinished items for MFA, email transport and authentication standards, DNS templates, privacy workflows and OAuth. Its security overview contains claims that are not consistent with its own TODO checklist. This case study therefore does not claim ISO certification, completed compliance, or that every mail protocol and security control is fully operational.
 
@@ -133,7 +134,7 @@ The goal is to connect these services into a coherent workspace: business manage
 - [Futura Desk](https://futuradesk.space)
 - [Futura Cloud](https://cloud.futuradesk.space)
 
-The official FuturaHost architecture document currently references the Mail service at `mailserver.futuradesk.space`. Confirm the preferred public Mail URL before publishing it in the portfolio.
+The public URL for the Futura Mail application is intentionally not published here yet. The webmail application and Grupo Futura's own mail-server infrastructure are separate architectural components.
 
 ---
 
