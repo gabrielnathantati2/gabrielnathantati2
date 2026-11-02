@@ -41,7 +41,7 @@ For client and private projects, I share only information and demonstrations tha
 
 - BSc Computer Science — University of the People (in progress)
 - Technical qualification in Electronics and Telecommunications
-- Founder — N Multimídia
+- Founder — N Multimídia and Grupo Futura
 
 ## Connect
 
