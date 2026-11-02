@@ -29,10 +29,10 @@ I continue to deepen these skills through practical development and ongoing stud
 
 Most of my product development takes place within **N Multimídia**. Some repositories are private because they contain client work or active products.
 
+- **[Imobi Lançamentos](https://imobilancamentos.com.br/)** — contributed to the development of a real-estate launch platform combining property discovery, agency workflows, lead management and AI-supported experiences. I also developed the mobile application and supported its launch on Google Play. [View Android app](https://play.google.com/store/apps/details?id=com.imobilancamentos.app).
 - **Discord Ticket Automation** — Python bot for structured support workflows, ticket handling and report generation. [View repository](https://github.com/nmultimidia/bot-tickets-infinity)
 - **Business platforms & SaaS** — hands-on work on CRM workflows, dashboards, client portals and multi-tenant application concepts.
 - **AI voice automation** — experimentation and development around voice interfaces, speech recognition, telephony and AI integrations.
-- **Real-estate technology** — application development and workflow features for property launches and lead management.
 
 For client and private projects, I share only information and demonstrations that can be made public.
 
